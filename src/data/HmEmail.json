@@ -1,0 +1,124 @@
+{
+    "imageHeader":{
+        "ImAGe":"https://i.imgur.com/MfXxDdD.jpg"
+    },
+    "imaGElOGo":{
+        "ImAge":"https://i.imgur.com/Weqr9LP.png"
+    },
+    "TheSUbhEADer":{
+        "ShopPinG":"Shop now",
+        "NewCLothes":"New arrivals",
+        "InsaLE":"Sale",
+        "SUScribers":"Member pages"
+    },
+    "HelloPoint":{
+        "PointGAINED":"Hello member, you currently have 0 points."
+    },
+    "blueDressection":{
+        "image":"https://i.imgur.com/IMvoadL.jpg",
+        "sPringTIME":"Forecast: cute spring ahead",
+        "MOREitem":"So much new",
+        "warmTIME":"Warmer temps mean looser layers,and we're loving all things oversized, wide-legged,",
+        "springBUNCH":"free-flowing, and easy-breezy! Take your pick of the spring bunch below.",
+        "buTTOn":"SHOP MOW"
+    },
+    "jumpsuitNdJACKET":[{
+        "image":"https://i.imgur.com/kYIdm2u.jpg",
+        "jumpsuitDESCRIPTION":"Linen Jumpsuit",
+        "JumpsuitPRICE":"$49.99",
+        "GIFimage":"https://i.imgur.com/9L9UYLo.gif",
+        "gifDESCRIPTION":"Double-breasted Jacket",
+        "gIfPRice":"$34.99",
+        "womanSITimage":"https://i.imgur.com/7FmfCF0.jpg",
+        "clothDESCRIPTION":"Cotton Poplin Shirt",
+        "clothPRICE":"$29.99"
+    },
+    {
+        "image":"https://i.imgur.com/qx7kf7R.jpg",
+        "jumpsuitDESCRIPTION":"Single-breasted Jacket",
+        "JumpsuitPRICE":"$34.99",
+        "GIFimage":"https://i.imgur.com/HYnWJiS.jpg",
+        "gifDESCRIPTION":"Dressy Bermuda Shorts",
+        "gIfPRice":"$24.99",
+        "womanSITimage":"https://i.imgur.com/3UIIjWa.jpg",
+        "clothDESCRIPTION":"Calf-length T-shirt Dress",
+        "clothPRICE":"$19.99"
+    }
+],
+"MOREdreSS":{
+    "KnitIMG":"https://i.imgur.com/qYO78I7.jpg",
+    "Knitdress":"Rib-knit Dress",
+    "knitPRICE":" $34.99",
+    "cottonDRESS":"https://i.imgur.com/InVJXf0.jpg",
+    "cottoN":"Cotton Poplin Dress",
+    "cottoNprice":"$24.99"
+},
+"EXCLUSIVEdiscount":{
+    "PERKS":"The perks of being an H&M member: exclusive discounts, free online returns, $5 rewards & more!"
+},
+"TableandWedding":{
+    "tabLEcLOTHimage":"https://i.imgur.com/vHHzA0N.jpg",
+    "Mariage":"The wedding edit",
+    "GetNoW":"SHOP MOW"
+},
+"theWEDDING":{
+    "Heading":"Air it out",
+    "SaveTIMe":"Save water (and time) by airing out your clothes instead of washing them!Not only does it extend the lifespan of your garments, but it's also better for the planet. For more easy tips and tricks,click below.",
+    "Moreinfo":"LEARN MORE",
+    "mariageIMAGE":"https://i.imgur.com/tktRsp1.jpg"
+},
+"FootER":{
+    "woMANimg":"https://i.imgur.com/QpAUAJy.jpg",
+    "Tex1":"Women",
+    "MenIMG":"https://i.imgur.com/YEPATt2.jpg",
+    "tEXT2":"Men",
+    "woMAN2":"https://i.imgur.com/e7LoRsi.jpg",
+    "tEXT3":"Divided",
+    "kidIMG":"https://i.imgur.com/R24RPdF.jpg",
+    "tEXT4":"Kids",
+    "store":"https://i.imgur.com/ava77bB.jpg",
+    "tEXT5":"H&M HOME"
+},
+"Apps":{
+    "aPPLication":"Download app",
+    "Android":"https://i.imgur.com/3WlKpm9.png",
+    "iOS":"https://i.imgur.com/xOOVzYx.png",
+    "SErviCE":"Stores & Service",
+    "FINDstore":"https://i.imgur.com/wIjv0s9.png",
+    "Contact":"https://i.imgur.com/fYyhR4r.png"
+},
+"HMlogo":{
+    "logoINFootER":"https://i.imgur.com/IQRNExS.png"
+},
+"SocialMEDIA":{
+    "Facebook":"https://i.imgur.com/4Wwkpn8.png",
+    "Twitter":"https://i.imgur.com/G4ZRCFx.png",
+    "Instagram":"https://i.imgur.com/dDwkMVE.png",
+    "Youtube":"https://i.imgur.com/vr5RL4D.png",
+    "Pinterest":"https://i.imgur.com/PTdahi2.png"
+},
+"Userinfo":{
+    "userID":"Member ID:",
+    "cOde":"100911837739685"
+},
+"Terms":{
+    "condition1":"*: Valid on select styles online only while supplies last.No adjustments on prior purchases.May not be redeemed",
+    "offer":" for cash or cash equivalent and is not transferable. Offer subject to change or expire without notice.",
+    "validity":"Valid in the US only.",
+    "MemberOFFer":"H&M member offers: find the full applicable terms and conditions for the offers in the H&M member area at",
+    "website":"hm.com ",
+    "HMapp":"or in the H&M app.",
+    "sTockavailabilitY":"May be subject to printing errors, changes, price changes,delivery delays and limited availability of stock.",
+    "Promotion":"You are receiving this email because you are signed up to receive H&M promotional communications.Note",
+    "Newsletter":"that signing-up for the newsletter does not create an account for you.You will need to create an actual account",
+    "oneWord":"on",
+    "hmWEB":"hm.com",
+    "MessageSENT":"separately.This message was sent by H & M Hennes & Mauritz GBC AB,",
+    "Masteraddress":"Master Samuelsgatan 46",
+    "zipAddress":"106 38 Stockholm,Sweden",
+    "LocaLCONtact":"Local contact H&M address is H & M Hennes & Mauritz L.P., ",
+    "NYC":"110 5th Avenue – 11th Floor, New York, NY 10011.",
+    "dontSuscribe":"Unsubscribe",
+    "VIEWS":"View in browser"
+}
+}

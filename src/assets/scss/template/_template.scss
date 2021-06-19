@@ -1,0 +1,427 @@
+html,
+body{
+  background-color:$body-background;
+  background: $body-background;
+  font-family: $body-font-family;
+  height: 300px;
+}
+//header
+.header{
+  background-color:$body-background;
+  background: $body-background;
+  &> tbody> tr> th> table> tbody> tr> th> center> a> img{
+    object-fit:cover;
+    padding-bottom: 20px;
+    
+  }
+  th{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    vertical-align: middle;
+  }
+  }
+  //logo section
+  .logo{
+    background-color:$body-background;
+    background: $body-background;
+    &> tbody> tr> th> table> tbody> tr> th> center> a> img{
+     width: 65px;
+      
+    }
+    th{
+      padding-top: 5px;
+      padding-bottom: 5px;
+      vertical-align: middle;
+    }
+  }
+//sub header
+.sub-header{
+  background-color:$body-background;
+  background: $body-background;
+  &> tbody> tr> th> table> tbody> tr> th> table> tbody> tr> th>  table> tbody> tr> th> a{
+    font-size: 13px;
+    color: #222;
+    font-weight: 400;
+    text-align: center;
+  }
+  th{
+    padding-top: 0px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+  }
+}
+//header point section
+.header-point{
+  background-color:#f1ebdf;
+  background: #f1ebdf;
+  &> tbody> tr> th> table> tbody> tr> th> center> a{
+    font-size: 10px;
+    color: #222;
+    font-weight: 400;
+    text-align: center;
+  }
+  th{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+    
+  }
+}
+//section1
+.section1{
+  background-color:$body-background;
+  background: $body-background;
+  &> tbody> tr> th> table> tbody> tr> th> a> img{
+    padding-top: 20px;
+   object-fit: cover;
+   width:500px;
+   padding-bottom: 50px;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> center> span{
+    border: 0;
+    color: #222222;
+    font-family: HMSansSemiBold,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2.4px;
+    line-height: 16px;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    padding-top: 17px;
+    text-align: center;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> center> h1{
+    border: 0;
+    color: #222222;
+    font-family: HMSans,Arial,sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 58px;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 17px;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> center> p{
+    border: 0;
+    color: #222222;
+    font-family: HMSans,Arial,sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18px;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    padding-bottom: 50px;
+    padding-top: 12px;
+    text-align: center;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> center> .bouton{
+    border: 1px solid #222222;
+    border-color: #222222;
+    color: #222222;
+    display: inline-block;
+    font-family: HMSans,Arial,sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 16px;
+    margin: 0;
+    outline: 0;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+  }
+  th{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    vertical-align: middle;
+  }
+}
+//jumpsuit-jacket section
+.jumpsuit-jacket{
+  background-color:$body-background;
+  background: $body-background;
+  &> tbody> tr> th> table> tbody> tr> th> a> img{
+    width: 100%;
+    object-fit: cover;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> a{
+    border: 0;
+    color: #222;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+  }
+  th{
+    padding-top: 15px;
+    vertical-align: middle;
+    padding-bottom: 30px;
+    padding-left: 0.1px;
+  }
+}
+//photo section
+.photo{
+  background-color:$body-background;
+  background: $body-background;
+  &> tbody> tr> th> table> tbody> tr> th> center> a> img{
+    object-fit: cover;
+    width: 70%;
+    cursor: pointer;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> a,p{
+    border: 0;
+    color: #222;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    margin: 0;
+    outline: 0;
+    padding-left: 15%;
+  }
+  th{
+    padding-bottom: 0px;
+    padding-top: 0px;
+    vertical-align: middle;
+  }
+}
+//exclusive discount section
+.exclusive-discount{
+  background-color:#f9f5ec;
+  background: #f9f5ec;
+  &> tbody> tr> th> table> tbody> tr> th> center> a{
+    font-size: 10px;
+    color: #222;
+    font-weight: 400;
+    text-align: center;
+  }
+  th{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+    
+  }
+}
+//table-cloth section
+.table-cloth{
+  background-color:$body-background;
+  background: $body-background;
+  &> tbody> tr> th> table> tbody> tr> th> center> a> img{
+    width: 88%;
+    object-fit: cover;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> center> h1{
+    border: 0;
+    color: #222222;
+    font-family: HMSans,Arial,sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 58px;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 17px;
+    padding-bottom: 50px;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> center> .bouton{
+    border: 1px solid #222222;
+    border-color: #222222;
+    color: #222222;
+    display: inline-block;
+    font-family: HMSans,Arial,sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 16px;
+    margin: 0;
+    outline: 0;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+  }
+  th{
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+}
+// wedding clothes section
+.wedding-cloth{
+  background-color: #ffffff;
+  background: #ffffff;
+  border: 0;
+  margin: 0;
+  outline: 0;
+  padding: 16px 24px 16px 8px;
+  &> tbody> tr> th> table> tbody> tr> th> h2{
+    font-size: 32px;
+    padding-top: 50%;
+    line-height: 38px;
+    text-align: center;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> p{
+    border: 0;
+    color: #222222;
+    font-family: HMSans,Arial,sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    padding-top: 8px;
+    text-align: center;
+    padding-bottom: 18px;
+    line-height: 20px;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> .bouton{
+    border: 1px solid #222222;
+    border-color: #222222;
+    color: #222222;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 16px;
+    margin: 0;
+    outline: 0;
+    padding: 12px 0;
+    text-align: center;
+    text-decoration: none;
+    width: 70%;
+  }
+  th{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  }
+}
+
+//footer section
+.footer{
+  background-color:#e4e4e4;
+  background: #e4e4e4;
+  padding-top: 120px;
+  &> tbody> tr> td> .footer-container{
+    background-color:#e4e4e4;
+    background: #e4e4e4;
+  }
+   &> tbody> tr> td> table> tbody> tr> td> table> tbody> tr> th> table> tbody> tr> th> a> img{
+    display:inline-block;
+    max-width: 700px;
+    width: 120px;
+    object-fit: cover;
+    padding-left: 2px;
+  }
+  &> tbody> tr> td> table> tbody> tr> td> table> tbody> tr> th> table> tbody> tr> th> p{
+    text-align: center;
+    padding-top: 5px;
+    vertical-align: middle;
+    border: 0;
+    color: #222;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    margin: 0;
+    outline: 0;
+    cursor:pointer;
+  }
+  th{
+      padding-top: 30px;   
+      vertical-align: middle;
+      padding-left: 0.1px;
+    }
+ //applications section
+.applications{
+  background-color:#e4e4e4;
+  background: #e4e4e4;
+  &> tbody> tr> th> table> tbody> tr> th> p{
+    border: 0;
+    color: #222;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    padding-bottom: 15px;
+    cursor: text;
+    text-align: center;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> center> a> img{
+    width: 70px;
+    object-fit: cover;
+    vertical-align: middle;
+  }
+  th{
+    vertical-align: middle;
+    padding-left: 10px;
+  }
+}
+//footer logo section
+.footer-logo{
+  background-color:#e4e4e4;
+  background: #e4e4e4;
+  &> tbody> tr> th> table> tbody> tr> th> img{
+    width: 60px;
+    object-fit: cover;
+  }
+  th{
+    padding-top: 20px;
+    padding-bottom: 15px;
+  }
+}
+//footer social section
+.footer-social{
+  background-color:#e4e4e4;
+  background: #e4e4e4;
+  &> tbody> tr> th> table> tbody> tr> th> a> img{
+    width: 30px;
+  }
+  th{
+    padding-top: 0px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    vertical-align: middle;
+  }
+}
+.Id{
+  background-color:#e4e4e4;
+  background: #e4e4e4;
+  &> tbody> tr> th> table> tbody> tr> th> span{
+    font-size: 13px;
+    text-align: center;
+  }
+  th{
+    vertical-align: middle;
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
+}
+.terms{
+  background-color:#e4e4e4;
+  background: #e4e4e4;
+  &> tbody> tr> th> table> tbody> tr> th> span{
+    border: 0;
+    text-align: center;
+    color: #707070;
+    font-family: HMSans,Arial,sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16px;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    padding-bottom: 16px;
+  }
+  th{
+    padding-top: 0px;
+  }
+}
+}

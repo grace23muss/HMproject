@@ -1,0 +1,123 @@
+---
+layout: index-layout
+subject: Promotional Email
+---
+<container>
+  <!-- section 1 -->
+  <row class="section1">
+    <columns>
+          <a href=""><img src="{{HmEmail.blueDressection.image}}"class="float-center" alt=""></a>
+          <center>
+              <span class="float-center">{{HmEmail.blueDressection.sPringTIME}}</span>
+          </center>
+          <center>
+              <h1 class="float-center">{{HmEmail.blueDressection.MOREitem}}</h1>
+          </center>
+          <center>
+              <p class="float-center">
+                {{HmEmail.blueDressection.warmTIME}}<br> 
+                {{HmEmail.blueDressection.springBUNCH}}
+              </p>
+          </center>
+          <center>
+              <a href=""class="bouton ">{{HmEmail.blueDressection.buTTOn}}</a>
+          </center>
+    </columns>
+  </row>
+</container>
+<!-- jumpsuit-jacket section  1-->
+<container>
+  {{#each HmEmail.jumpsuitNdJACKET}}
+      <row class="jumpsuit-jacket">
+            <columns small="6">
+              <a href=""><img src="{{this.image}}" alt=""></a>
+              <a href="">
+                {{this.jumpsuitDESCRIPTION}}<br>
+                {{this.JumpsuitPRICE}}
+              </a>
+            </columns>
+            <columns small="6">
+                <a href=""><img src="{{this.GIFimage}}" alt=""></a> 
+                <a href="">
+                  {{this.gifDESCRIPTION}} <br>
+                  {{this.gIfPRice}}
+                </a>
+            </columns>
+      </row>
+      <!-- photo section -->
+    <row class="photo">
+        <columns>
+              <center>
+              <a href=""><img src=" {{this.womanSITimage}}" alt=""class="float-center"></a>
+              </center>
+              <a href="">{{this.clothDESCRIPTION}}</a><br>
+              <a href="">{{this.clothPRICE}}</a>
+        </columns>
+    </row>
+{{/each}}
+</container>
+<!-- jumpsuit-jacket section  2 share the same css with section1 -->
+<container>
+    <row class="jumpsuit-jacket">
+        <columns small="6">
+            <a href=""><img src="{{HmEmail.MOREdreSS.KnitIMG}}" alt=""></a>
+            <a href="">{{HmEmail.MOREdreSS.Knitdress}}<br>
+              {{HmEmail.MOREdreSS.knitPRICE}}</a>
+        </columns>
+        <columns small="6">
+            <a href=""><img src=" {{HmEmail.MOREdreSS.cottonDRESS}}" alt=""></a> 
+            <a href="">
+              {{HmEmail.MOREdreSS.cottoN}}<br>
+              {{HmEmail.MOREdreSS.cottoNprice}}
+            </a>
+        </columns>
+    </row>
+</container>
+  <!--  discount section-->
+<container>
+    <row style="background-color:#faf9f8;background:#faf9f8;">
+        <columns>
+          <!-- exclusive discount section-->
+            <row class="exclusive-discount">
+              <columns></columns>
+                <columns style="width:40%;">
+                  <center>
+                      <a href=""class="text-center">
+                        {{HmEmail.EXCLUSIVEdiscount.PERKS}}
+                      </a>
+                  </center>
+                </columns>
+            <columns></columns>
+          </row>
+        </columns>
+    </row>
+</container>
+<!-- table cloth  section -->
+<container>
+    <row class="table-cloth">
+      <columns>
+            <center>
+              <a href=""><img src="{{HmEmail.TableandWedding.tabLEcLOTHimage}}" alt=""class="float-center"></a>
+            </center>
+            <center>
+              <h1 class="float-center">{{HmEmail.TableandWedding.Mariage}}</h1>
+            </center>
+            <center>
+              <a href=""class="bouton ">{{HmEmail.TableandWedding.GetNoW}}</a>
+            </center>
+      </columns>
+    </row>
+</container>
+<!-- wedding cloth section -->
+<container>
+  <row class="wedding-cloth">
+    <columns small="6">
+        <h2>{{HmEmail.theWEDDING.Heading}}</h2>
+        <p>{{HmEmail.theWEDDING.SaveTIMe}}</p>
+        <a href="" class="bouton">{{HmEmail.theWEDDING.Moreinfo}}</a>
+    </columns>
+    <columns small="6">
+        <img src="{{HmEmail.theWEDDING.mariageIMAGE}}" alt="">
+    </columns>
+  </row>
+</container>
